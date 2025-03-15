@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.9",
+    "react-modal": "^3.16.3"
+  }
+}
